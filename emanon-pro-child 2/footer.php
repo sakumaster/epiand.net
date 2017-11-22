@@ -22,7 +22,7 @@ c<?php
 			<?php emanon_top_page_btn(); ?>
 			<?php wp_nav_menu( array ( 'theme_location' => 'footer-nav', 'fallback_cb' => '', 'container' => false, 'menu_class' => 'footer-nav') ); ?>
 
-
+<!-- 落書き -->
 
 			<!-- <?php emanon_footer_copy(); ?> -->
 		</div>
